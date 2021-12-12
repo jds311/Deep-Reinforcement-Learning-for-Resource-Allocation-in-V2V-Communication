@@ -1,0 +1,96 @@
+
+---------------8480---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.92252 Mbps
+Pr(V2V): 1.0
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.32122 Mbps
+Pr(V2V): 0.9875
+--------random ------------
+Rand Sum V2I rate: 39.66697 Mbps
+Rand Pr(V2V): 0.9975
+--------DPRA ------------
+Dpra Sum V2I rate: 42.09113 Mbps
+Dpra Pr(V2V): 1.0
+
+---------------16960---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 41.16938 Mbps
+Pr(V2V): 1.0
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.13444 Mbps
+Pr(V2V): 0.9775
+--------random ------------
+Rand Sum V2I rate: 37.45974 Mbps
+Rand Pr(V2V): 0.92
+--------DPRA ------------
+Dpra Sum V2I rate: 41.40282 Mbps
+Dpra Pr(V2V): 1.0
+
+---------------25440---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 40.21701 Mbps
+Pr(V2V): 0.995
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.39672 Mbps
+Pr(V2V): 0.97
+--------random ------------
+Rand Sum V2I rate: 36.14133 Mbps
+Rand Pr(V2V): 0.8675
+--------DPRA ------------
+Dpra Sum V2I rate: 40.73111 Mbps
+Dpra Pr(V2V): 1.0
+
+---------------33920---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 39.48397 Mbps
+Pr(V2V): 0.9825
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 36.95577 Mbps
+Pr(V2V): 0.94
+--------random ------------
+Rand Sum V2I rate: 35.09092 Mbps
+Rand Pr(V2V): 0.85
+--------DPRA ------------
+Dpra Sum V2I rate: 40.07648 Mbps
+Dpra Pr(V2V): 1.0
+
+---------------42400---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 38.48528 Mbps
+Pr(V2V): 0.9625
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 35.63352 Mbps
+Pr(V2V): 0.8975
+--------random ------------
+Rand Sum V2I rate: 34.10049 Mbps
+Rand Pr(V2V): 0.8225
+--------DPRA ------------
+Dpra Sum V2I rate: 39.40566 Mbps
+Dpra Pr(V2V): 1.0
+
+---------------50880---------------
+-------- marl, marl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 37.28664 Mbps
+Pr(V2V): 0.94
+-------- sarl, sarl_model------
+n_veh: 4, n_neighbor: 1
+Sum V2I rate: 34.82845 Mbps
+Pr(V2V): 0.8625
+--------random ------------
+Rand Sum V2I rate: 33.19435 Mbps
+Rand Pr(V2V): 0.785
+--------DPRA ------------
+Dpra Sum V2I rate: 38.68935 Mbps
+Dpra Pr(V2V): 1.0
